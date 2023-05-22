@@ -3,11 +3,6 @@
 
 **Help Feed More Children and Hunger Striken People Across the Globe with just a Click.**
 
-Cookr is a web app aimed at helping homecooks and chefs from around the world share their recipes and gain traction
-on it as well. It's almost like a social media application but for cooking and food enthusiasts. You can save recipes
-you like, follow your favourite cooks, show how you feel by liking and commenting too. Even help guide people by replying
-to their comments.
-
 Feed More is a Web App aimed at helping Poor and Hunger Striken people from around the Globe attain food through NGOs
 that manage, distribute and serve Poor people. The application will allow NGOs that require food donations for poor people
 to Request Food items on this platform via a post on the platform along with the requirements. The restaurants will then be
@@ -53,11 +48,11 @@ able to allot their leftover inventory to the NGOs that require it based on the 
 ## API Endpoints
 
 ## Task List
-- [x] Project Setup
-  - [x] Client
+- [ ] Project Setup
+  - [ ] Client
   - [x] Server
-- [x] DB Design
- - [x] Test on Postman
+- [ ] DB Design
+ - [ ] Test on Postman
 - [ ] Connect Client to Server
 - [ ] UI Design (**Subject to Change**)
   - [ ] WireFraming
