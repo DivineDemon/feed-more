@@ -1,7 +1,8 @@
 import cors from "cors";
+import * as dotenv from "dotenv";
+
 import express from "express";
 import connectDB from "./db.js";
-import * as dotenv from "dotenv";
 import { errorHandler } from "./middleware/errorHandler.js";
 
 dotenv.config(); // Configure .env
